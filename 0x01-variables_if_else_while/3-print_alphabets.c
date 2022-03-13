@@ -22,7 +22,7 @@ putchar(c);
 c++;
 }
 
-puutchar('\n');
+putchar('\n');
 
 return (0);
 }
