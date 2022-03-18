@@ -18,11 +18,11 @@ _putchar('\n');
 }
 else
 {
-for (row = 0; row < size ; row++)
+for (row = 0; row < size; row++)
 {
-for (colum = size - row ; colum > 1; colum--)
+for (colum = size - row; colum > 1; colum--)
 _putchar(' ');
-for (k = 0 ; k <= row; k++)
+for (k = 0; k <= row; k++)
 _putchar('#');
 
 _putchar('\n');
