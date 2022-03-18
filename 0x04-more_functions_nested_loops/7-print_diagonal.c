@@ -15,9 +15,9 @@ int columnas;
 
 if (n > 0)
 {
-for filas = 0; filas < n; filas++)
+for (filas = 0; filas < n; filas++)
 {
-for columnas = 0; columnas <= filas; columnas++)
+for (columnas = 0; columnas <= filas; columnas++)
 {
 if (filas == columnas)
 {
