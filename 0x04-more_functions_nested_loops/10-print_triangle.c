@@ -8,7 +8,7 @@
 * Return: 0.
 */
 
-void print_triangle(int_size)
+void print_triangle(int size)
 {
 int row, colum, k;
 

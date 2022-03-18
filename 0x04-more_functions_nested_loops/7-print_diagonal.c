@@ -33,6 +33,6 @@ _putchar (' ');
 }
 else
 {
-putchar ('\n');
+_putchar ('\n');
 }
 }
